@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project type="instrumenttracksettings" creator="LMMS" creatorversion="1.2.2" version="1.0">
+  <head/>
+  <instrumenttracksettings type="0" name="Dexed Bass" muted="0" solo="0">
+    <instrumenttrack fxch="2" basenote="57" vol="68.8" pitchrange="1" usemasterpitch="1" pan="0" pitch="0">
+      <instrument name="vestige">
+        <vestige plugin="C:/Dexed will go here/Dexed.dll" program="5" chunk="VkMyISQYAAA8ZGV4ZWRTdGF0ZSBjdXRvZmY9IjEuMDAwMDAwMDAwMDAwMDAwMDAwMDAiIHJlc289IjAuMDAwMDAwMDAwMDAwMDAwMDAwMDAiIGdhaW49IjEuMDAwMDAwMDAwMDAwMDAwMDAwMDAiIGN1cnJlbnRQcm9ncmFtPSI1IiBtb25vTW9kZT0iMSIgZW5naW5lVHlwZT0iMSIgbWFzdGVyVHVuZT0iMCIgb3BTd2l0Y2g9IjExMTExMSIgd2hlZWxNb2Q9IjAgMCAwIDAiIGZvb3RNb2Q9IjAgMCAwIDAiIGJyZWF0aE1vZD0iMCAwIDAgMCIgYWZ0ZXJ0b3VjaE1vZD0iMCAwIDAgMCIgYWN0aXZlRmlsZUNhcnRyaWRnZT0iQzpcRGV4ZWQgd2lsbCBnbyBoZXJlXERleGVkXENhcnRyaWRnZXNcMjYxMm9yZy1wYXRjaGVzLXN5c2V4XFRodW5kZXJfRm9yY2VfSVZfLV8wMV8tX0xpZ2h0bmluZ19TdHJpa2VzX0FnYWluXyhPcGVuaW5nX1RoZW1lKS5zeXgiPjxkZXhlZEJsb2IgYmFzZTY0OnN5c2V4PSI0MTA0LnZPRC5JLkIuaWdRQzFMVlcuLi4uLi4uLm4uZlZELnZYYS5QTGkwVVcuLi4uLi4uUi4zRC4uekVELlh5WGMwRS4uLi4uLmZELlJBLi5VQS4uZkwxWGlBLi4uLi4ubi52U0YudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpSWlMeEhDLkcuLi4uLi5BWFBFWjA0RllrQUNMdi55WGFyd0ppa0UuLi4uLi4uZlMuM0RBLkxGRlhyeFhjQS4uLi4uLi4zQi5FQS4uaUVCRnFMVlcuLi4uLi4uLlBBdlIuLnZYWDN3SmlBLi4uLi4uLi4uVC5IRS4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYeEhpTHh6Li4uLi4uLlAuRlRnVmN0UVZZdi5DTHdMMUZTWHlYLi4uLi4uLi4uM0QuT1kuLmlBQ0RVTEZVLi4uLi4uLi5OQVBWQi52WGEuUUVpSUQuLi4uLi4uLlIubmsuLkwxRGRUd1hHQS4uLi4uLi5mRC5NSS4uaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU1sTHhIaUwuYi4uLi4uLkRmQVVuVW1halVGTHYuaUxpSUQuVUxWV2NBLi4uLi4udC4uV0YudldVblBFaWtFLi4uLi4uLmZTLjdqQS5MbEIuLnZYYzBFLi4uLi4uZkMuWEEuLmlvUFc3TEYuLi4uLi4uLi5uLlBTLi52WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlJaUx4SEMuRS4uLi4uLkFYUEVaMDRGWWtBQ0x2THlYSi5QRWkwVVcuLi4uLi4uVC5IbEcuTGxCSlh5WGNBLi4uLi4uLi5FLlNBLi5pQXZMVUxGVS4uLi4uLi4ubi4uVC4uLlhYYlJFaUEuLi4uLi4uLi5SLi5FLi5MMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVh4SGlMeDN3QS4uLi4uUC5GVGdWY3RRVll2LkNMekwxRmFYeFhLQS4uLi4uLi4zQi5Ld0EuaUFpQnFMMVIuLi4uLi4uLk5BZlNCLlBXYW5QTGlBLi4uLi4uLi4uUi5MRS4uTDFESnJ3WEJBLi4uLi4uLmZELlJBLi5pTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTWxMeEhpTEZULi4uLi4uRGZBVW5VbWFqVUZMdi5TTWkwZkouTEYuLi4uLi4uLi5IQS5XLi5mUi4uLi5pTTFYLi4uLi4uLlAudkMuLnJFRGlBdlhQQS4uLi4uLi5mRC5QQS4uaW9mQi5MVlcuLi4uLi4uLkhBLlQuLnZYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaUlpTHhIU0VHLi4uLi4uQVhQRVowNEZZa0FDTHZYeVVUTTFYaUEuLi4uLi4uLi5ULkhGLi5yRS4uWHlYaU1GLi4uLi4uLkUuU0EuLmFzelhpTUYuLi4uLi4uLi5QQWZVLi52Vi4uZk1pTTFYLi4uLi4uLlQuTEUuLkwxWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWHhIaUx4UFBBLi4uLi5QLkZUZ1ZjdFFWWXYuQ0wyTEYuLi52WGlNRi4uLi4uLm5CLmhJLi5pTUYucUwxWGlBLi4uLi4udC52VGQudlguLi4uaU0xWC4uLi4uLi5QLkxFLi5MRi4uLnZYaU1GLi4uLi4uZkIuU0EuLmlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNbEx4SGlMZGIuLi4uLi5EZkFVblVtYWpVRkx2LkNOaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuaUkuLmlNMVhpSWlMeEhDLkhMQi4uLlBMWGpqU0lRRUhWOFRSQ1V6WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy52WEIudlhpTTFYeEhpTHguLkJpLi4uLkRDRkk0VFJUQWhVT2t6UEVNMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi5MbC4uTDFYaU1sTHhIaUwuZnZILi4uLndmUVJOa0RVZlgwU0lNVFFpTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy5pSS4uaU0xWGlJaUx4SEMuSExCLi4uUExYampTSVFFSFY4VFJDVXpYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLnZYQi52WGlNMVh4SGlMeC4uQmkuLi4uRENGSTRUUlRBaFVPa3pQRU0xWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLkxsLi5MMVhpTWxMeEhpTC5mdkguLi4ud2ZRUk5rRFVmWDBTSU1UUWlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLmlJLi5pTTFYaUlpTHhIQy5ITEIuLi5QTFhqalNJUUVIVjhUUkNVelhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMudlhCLnZYaU0xWHhIaUx4Li5CaS4uLi5EQ0ZJNFRSVEFoVU9relBFTTFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uTGwuLkwxWGlNbEx4SGlMLmZ2SC4uLi53ZlFSTmtEVWZYMFNJTVRRaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuaUkuLmlNMVhpSWlMeEhDLkhMQi4uLlBMWGpqU0lRRUhWOFRSQ1V6WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy52WEIudlhpTTFYeEhpTHguLkJpLi4uLkRDRkk0VFJUQWhVT2t6UEVNMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi5MbC4uTDFYaU1sTHhIaUwuZnZILi4uLndmUVJOa0RVZlgwU0lNVFFpTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy5pSS4uaU0xWGlJaUx4SEMuSExCLi4uUExYampTSVFFSFY4VFJDVXpYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLnZYQi52WGlNMVh4SGlMeC4uQmkuLi4uRENGSTRUUlRBaFVPa3pQRU0xWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLkxsLi5MMVhpTWxMeEhpTC5mdkguLi4ud2ZRUk5rRFVmWDBTSU1UUWlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLmlJLi5pTTFYaUlpTHhIQy5ITEIuLi5QTFhqalNJUUVIVjhUUkNVelhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMudlhCLnZYaU0xWHhIaUx4Li5CaS4uLi5EQ0ZJNFRSVEFoVU9relBFTTFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uTGwuLkwxWGlNbEx4SGlMLmZ2SC4uLi53ZlFSTmtEVWZYMFNJTVRRaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuaUkuLmlNMVhpSWlMeEhDLkhMQi4uLlBMWGpqU0lRRUhWOFRSQ1V6WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy52WEIudlhpTTFYeEhpTHguLkJpLi4uLkRDRkk0VFJUQWhVT2t6UEVNMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy4uSC4uaU0xWGlNMVhpQXZJLi4uLjMuLi5CLnZYaU0xWGlNMVguYkIuLi4uTi5MbC4uTDFYaU1sTHhIaUwuZnZILi4uLndmUVJOa0RVZlgwU0lNVFFpTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLi4uQi52WGlNMVhpTTFYLmJCLi4uLk4uLmYuLkwxWGlNMVhpTUYubS4uLi5mQy5pSS4uaU0xWGlJaUx4SEMuSExCLi4uUExYampTSVFFSFY4VFJDVXpYaU0xWGlNMVguYkIuLi4uTi4uZi4uTDFYaU0xWGlNRi5tLi4uLmZDLi5ILi5pTTFYaU0xWGlBdkkuLi4uMy4uLkIudlhpTTFYaU0xWC5iQi4uLi5OLi5mLi5MMVhpTTFYaU1GLm0uLi4uZkMuLkguLmlNMVhpTTFYaUF2SS4uLi4zLnZYQi52WGlNMVh4SGlMeC4uQmkuLi4uRENGSTRUUlRBaFVPa3pQRTB6OCIgYmFzZTY0OnByb2dyYW09IjE2MS5pc3dGbEwxUi4uLi4uLi4uLlguLi5yRC5OLlBBaUFpQnFMMVIuLi4uLi4uLi5YLi4uM0QuQS5QQmNzZ0J3TEYuLi4uLi4uLi4uLi4uLkxFLi4uUEJpTWdCYUxsUC4uLi4uLi4uLi4uLi5IRS4uLlBCaU0xWGlNMVhpQXZJLi4uLi4uLi4uLi4uQS52QWlNMVhpTTFYaUF2SS4uLi4uLi4uLi4uLkEudkFpTTFYaUlpTHhIaUFFLi4uLi4uLi5ILi5YUEVaMDRGWWtBQ0x2VEMuLi4uLi4uLiIvPjxtaWRpQ0MvPjwvZGV4ZWRTdGF0ZT4A" guivisible="1"/>
+      </instrument>
+      <eldata fwet="0" fres="0.5" fcut="14000" ftype="0">
+        <elvol lamt="0" rel="0.1" lshp="0" latt="0" lspd_numerator="4" sustain="0.5" userwavefile="" att="0" x100="0" lspd_denominator="4" lspd="0.1" dec="0.5" pdel="0" amt="0" lpdel="0" ctlenvamt="0" lspd_syncmode="0" hold="0.5"/>
+        <elcut lamt="0" rel="0.1" lshp="0" latt="0" lspd_numerator="4" sustain="0.5" userwavefile="" att="0" x100="0" lspd_denominator="4" lspd="0.1" dec="0.5" pdel="0" amt="0" lpdel="0" ctlenvamt="0" lspd_syncmode="0" hold="0.5"/>
+        <elres lamt="0" rel="0.1" lshp="0" latt="0" lspd_numerator="4" sustain="0.5" userwavefile="" att="0" x100="0" lspd_denominator="4" lspd="0.1" dec="0.5" pdel="0" amt="0" lpdel="0" ctlenvamt="0" lspd_syncmode="0" hold="0.5"/>
+      </eldata>
+      <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+      <arpeggiator arprange="1" arptime_denominator="4" arptime="200" arpcycle="0" arptime_syncmode="0" arpgate="100" arpmode="0" arpskip="0" arpdir="0" arp-enabled="0" arptime_numerator="4" arp="0" arpmiss="0"/>
+      <midiport fixedoutputnote="-1" writable="0" readable="0" fixedoutputvelocity="-1" inputchannel="0" outputchannel="1" outputprogram="1" inputcontroller="0" basevelocity="63" fixedinputvelocity="-1" outputcontroller="0"/>
+      <fxchain enabled="1" numofeffects="2">
+        <effect gate="0" autoquit="1" name="ladspaeffect" autoquit_numerator="4" wet="1" autoquit_denominator="4" on="0" autoquit_syncmode="0">
+          <ladspacontrols ports="9">
+            <port07>
+              <data id="12517" scale_type="log" value="0.63875"/>
+            </port07>
+            <port08>
+              <data id="19694" scale_type="log" value="6324.56"/>
+            </port08>
+            <port09 data="2"/>
+            <port010 data="0.5"/>
+            <port011 data="0.6425"/>
+            <port012 data="1"/>
+            <port013 data="0"/>
+            <port014>
+              <data id="25686" scale_type="log" value="632.456"/>
+            </port014>
+            <port015>
+              <data id="7617" scale_type="log" value="3556.56"/>
+            </port015>
+          </ladspacontrols>
+          <key>
+            <attribute name="file" value="calf"/>
+            <attribute name="plugin" value="Reverb"/>
+          </key>
+        </effect>
+        <effect gate="0" autoquit="1" name="eq" autoquit_numerator="4" wet="1" autoquit_denominator="4" on="1" autoquit_syncmode="0">
+          <Eq LPres="0.707" Peak3gain="0" LPactive="0" AnalyseIn="1" HP="0" Peak2bw="0.3" Peak3bw="0.3" Peak1bw="0.3" HighShelfres="1.4" HP24="0" Lowshelfactive="0" Peak4gain="0" LP24="0" HPres="0.707" HP12="1" Outputgain="12.8" Highshelfactive="0" AnalyseOut="1" Peak1active="0" Peak2active="0" Peak3active="0" LP12="1" HighShelfgain="0" Peak4active="0" Peak2gain="0" Peak4bw="0.3" HP48="0" LP="0" HPactive="0" Lowshelfgain="0" LowShelfres="1.4" LP48="0">
+            <Inputgain id="19465" scale_type="log" value="0"/>
+            <Peak1gain id="16808" scale_type="log" value="0"/>
+            <HPfreq id="18871" scale_type="log" value="31"/>
+            <LowShelffreq id="2657" scale_type="log" value="80"/>
+            <Peak1freq id="11427" scale_type="log" value="120"/>
+            <Peak2freq id="13830" scale_type="log" value="250"/>
+            <Peak3freq id="12948" scale_type="log" value="2000"/>
+            <Peak4freq id="30518" scale_type="log" value="4000"/>
+            <Highshelffreq id="11547" scale_type="log" value="12000"/>
+            <LPfreq id="10241" scale_type="log" value="18000"/>
+          </Eq>
+          <key/>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
